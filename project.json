@@ -1,0 +1,8 @@
+{
+  "number": 2,
+  "name": "To-do list",
+  "slug": "to-do-list",
+  "level": "Beginner",
+  "description": "Create a CRUD app with Angular, FastAPI, and SQLite.",
+  "status": "planning"
+}
